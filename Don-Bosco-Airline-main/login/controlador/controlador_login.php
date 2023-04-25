@@ -1,7 +1,7 @@
 <?php
 session_start();
 if (!empty($_POST["btningresar"])) {
-    if (!empty($_POST["usuario"]) && !empty($_POST["password"])) {
+    if (!empty($_POST["usuario"]) && !empty($_POST["clave"])) {
         $usuario = $_POST["usuario"];
         $password = $_POST["password"];
         $sql = "SELECT * FROM usuarios WHERE usuario='$usuario' AND clave='$password'";
@@ -14,7 +14,7 @@ if (!empty($_POST["btningresar"])) {
             $_SESSION["apellido"]=$row["apellido"];
             // El usuario existe en la base de datos
             // Redireccionar al usuario a la página principal
-            header("Location:../controlador/login.php");
+            header("Location:../../index.html");
             exit();
         } else {
             // El usuario no existe en la base de datos

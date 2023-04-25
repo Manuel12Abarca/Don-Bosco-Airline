@@ -14,15 +14,15 @@
         <img src="img/login-icon.svg" alt="login-icon" style="height: 7rem;">
     </div>
         <form method="post" action="" class="">
-            <!-- <img src="img/User-avatar.svg.png" alt="avatar"> -->
+            <img src="img/User-avatar.svg.png" alt="avatar"> 
             <h3 class="tittle text-center fs-1 fw-bold mt-3">INICIA SESIÓN</h3>
             <?php
-            include "modelo/conexion_bd.php";
-            include "controlador/controlador_login.php";
+            include "controlador/conexion_bd.php";
+            include "controlador/conexion_bd.php";
             ?>
             <div class="input-group mt-4">
                 <div class="input-group-text bg-info">
-                    <img src="img/username-icon.svg" alt="username-icon" style="height: 1rem;">
+                    <img src="/usuario.svg" alt="username-icon" style="height: 1rem;">
                 </div>
                     <input class="form-control" type="text" class="input" name="usuario" placeholder="Usuario">
             </div>
@@ -39,6 +39,7 @@
                 <div class="d-flex gap-1 justify-content-center mt-3">
                     <div>¿No tienes una cuenta?</div>
                     <a class="text-decoration-none text-info fw-semibold" href="register.php">Registrarse</a> 
+                    <a class="text-decoration-none text-info fw-semibold" href="../catedra/src/index.html">Regresar</a> 
                 </div>
             </div> 
         </form>

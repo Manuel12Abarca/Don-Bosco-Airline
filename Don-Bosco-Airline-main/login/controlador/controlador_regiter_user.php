@@ -1,5 +1,5 @@
 <?php
-if (!empty($_POST["registrar"])) {
+if (!empty($_POST["registro"])) {
     if (empty($_POST["nombre"]) or empty($_POST["apellido"]) or empty($_POST["usuario"]) or empty($_POST["clave"])) {
         echo "Completa todos los campos";
     } else {
