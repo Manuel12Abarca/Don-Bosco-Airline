@@ -51,5 +51,5 @@ session_start();
 		echo "<script>location.href='registro.php'</script>";	
 
 	}
-
+	return("C:\xampp\htdocs\Don-Bosco-Airline\Don-Bosco-Airline-main\Catedra\src\tourly-master\index.html");
 ?>
