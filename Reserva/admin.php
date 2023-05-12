@@ -31,23 +31,14 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">Chiphysi <em>Programacion</em></a></div>
-				</div>
-				<div class="col-xs-8 text-right menu-1">
-					<ul>
-						<li><a href="admin.php">Inicio</a></li>
-						<li><a href="reservaadmin.php">Reserva</a></li>
-						<li><a href="usuarioadmin.php">usuarios</a></li>
-						<li><a href="contactoadmin.php">Contactos</a></li>
-						<li><a href="desconectar.php"><font color="black">Salir</font></a></li>
-					</ul>
+					<div id="gtco-logo"><a href="index.html">Air <em>DB admin</em></a></div>
 				</div>
 			</div>
 			
 		</div>
 	</nav>
 	
-	<header id="gtco-header" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(images/img_bg_2.jpg)">
+	<header id="gtco-header" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(../Reserva/images/fofo.jpg)">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -56,7 +47,7 @@
 
 					<div class="row row-mt-10em">
 						<div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp">
-							<h1><center>BIENVENIDO A CHIPHYSI PROGRAMACION<BR> Plataforma Para Reservar Tus Viajes</BR></h1>	
+							<h1>Panel Admin</h1>	
 						</div>
 					</div>
 <center>
@@ -88,10 +79,10 @@
 					</p>
 					<p class="pull-right">
 						<ul class="gtco-social-icons pull-right">
-							<li><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ"><i class="icon-twitter"></i></a></li>
-							<li><a href="https://www.facebook.com/jhonatan.cardona.9237"><i class="icon-facebook"></i></a></li>
-							<li><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ"><i class="icon-linkedin"></i></a></li>
-							<li><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ"><i class="icon-dribbble"></i></a></li>
+							<li><a href=""><i class="icon-twitter"></i></a></li>
+							<li><a href=""><i class="icon-facebook"></i></a></li>
+							<li><a href=""><i class="icon-linkedin"></i></a></li>
+							<li><a href=""><i class="icon-dribbble"></i></a></li>
 						</ul>
 					</p>
 				</div>

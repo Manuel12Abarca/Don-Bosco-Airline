@@ -58,7 +58,7 @@
 
 					<div class="row row-mt-10em">
 						<div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp">
-							<h1><center>BIENVENIDO A CHIPHYSI PROGRAMACION<BR> Plataforma Para Reservar Tus Viajes</BR></h1>	
+							<h1><center>Air Don Bosco<BR> Volando hasta las estrellas</BR></h1>	
 						</div>
 					</div>
 <center>

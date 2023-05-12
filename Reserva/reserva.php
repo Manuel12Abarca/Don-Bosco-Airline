@@ -57,7 +57,7 @@
 
 					<div class="row row-mt-15em">
 						<div class="col-md-7 mt-text animate-box" data-animate-effect="fadeInUp">
-							<h1>Planeando viaje a cualquier parte del mundo?</h1>	
+							<h1>¿Donde planeas Viajar?</h1>	
 						</div>
 						<div class="col-md-4 col-md-push-1 animate-box" data-animate-effect="fadeInRight">
 							<div class="form-wrap">
@@ -100,9 +100,6 @@
 													<div class="col-md-12">
 														<label for="destination">Precio</label>
 														<select name="precio" id="destination" class="form-control" required="">
-															<option value="250.000/COP">250.000/COP</option>
-															<option value="500.000/COP">500.000/COP</option>
-															<option value="1.000.000/COP">1.000.000/COP</option>
 															<option value="600/US">600/US</option>
 															<option value="1000/US">1000/US</option>
 															<option value="2500/US">2500/US</option>
@@ -119,7 +116,7 @@
 
 												<div class="row form-group">
 													<div class="col-md-12">
-														<input type="submit" class="btn btn-primary btn-block" value="Submit">
+														<input type="submit" class="btn btn-primary btn-block" value="Registrar">
 													</div>
 												</div>
 											</form>	

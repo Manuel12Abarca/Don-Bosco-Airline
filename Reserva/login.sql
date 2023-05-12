@@ -1,10 +1,4 @@
--- phpMyAdmin SQL Dump
--- version jhonatan v.1
--- http://www.phpmyadmin.net
---
--- Servidor: localhost
--- Tiempo de generación: 21-09-2018 a las 04:24:42
--- Versión del servidor: 10.1.9-jhonatan
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -38,8 +32,7 @@ CREATE TABLE `login` (
 -- Volcado de datos para la tabla `login`
 --
 
-INSERT INTO `login` (`id`, `user`, `password`, `email`, `pasadmin`, `rol`) VALUES
-(1, 'Administrador Jhonatan', '', 'estivenjc292@gmail.com', '1001235846', 1);
+INSERT INTO `login` (`id`, `user`, `password`, `email`, `pasadmin`, `rol`) VALUES;
 
 --
 -- Índices para tablas volcadas

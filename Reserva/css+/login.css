@@ -116,7 +116,7 @@ input.material-login-control:focus ~ .bar-login:before, input.material-login-con
 .btn-login3:active{
     outline: none;
     border: none;
-    box-shadow: none;
+    box-shadow: none;}
     
 label{
     font-style: normal;

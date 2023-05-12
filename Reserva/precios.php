@@ -51,7 +51,7 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2>Air Don Bosoc</h2>
+					<h2>Air Don Bosco</h2>
 					<p>Elige el mejor plan para ti</p>
 				</div>
 			</div>
