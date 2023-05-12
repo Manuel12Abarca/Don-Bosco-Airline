@@ -63,7 +63,7 @@
 		</div>
 	</nav>
 	
-	<header id="gtco-header" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(images/img_bg_2.jpg)">
+	<header id="gtco-header" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(imagenes/aviones.jpg)">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">

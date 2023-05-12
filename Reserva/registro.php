@@ -24,7 +24,7 @@
     <script src="js+/jquery.mCustomScrollbar.concat.min.js"></script>
     <script src="js+/main.js"></script>
 </head>
-<body class="full-cover-background" style="background-image:url(images/img_bg_2.jpg);">
+<body class="full-cover-background" style="background-image:url(images/fofo.jpg);">
     <div class="form-container">
         <p class="text-center" style="margin-top: 17px;">
           <h4 class="text-center all-tittles" style="margin-bottom: 30px;"><font size="6" face="Algerian">SISTEMA RESERVA VIAJES</font></h4>
