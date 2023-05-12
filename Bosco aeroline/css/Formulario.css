@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+    background:url("https://i.pinimg.com/originals/5b/0a/fb/5b0afbfd74add7a5abcb393a8707d2e3.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+	float: left;
+	margin-left: 260px;
+	margin-top: -20%;
+}
+
+.form-register{
+	width: 400px;
+    background: #24303c ;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.form-register h5{
+	font-size: 40px;
+	margin-bottom: 30px;
+	color: orange;
+	margin: center;
+	text-align: center;
+}
+
+.controls{
+	width: 100%;
+	background: #24303c;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid #1f53c5;
+	font-family: 'calibri';
+	font-size: 18px;
+	color: white;
+	margin-top: 3%;
+}
+
+.form-register p{
+	height: 40px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 40px;
+	padding: 4px;
+}
+
+.form-register a{
+	color: skyblue;
+	text-decoration: none;
+
+}
+
+
+.form-register a:hover{
+	text-decoration: underline;
+	
+}
+
+.form-register .botons{
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    background:  #1a2537;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+
