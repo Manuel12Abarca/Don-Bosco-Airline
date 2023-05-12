@@ -1,24 +1,9 @@
-<!--// Chiphysi programación suscribete -->
-<!--// V 0.1 original -->
-<!--// Autor: Chiphysi  --><!--// Autor: Jhonatan Cardona  -->
-<!--// Derechos de autor(Suscribete)  -->
-
 <!DOCTYPE HTML>
 <html>
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>chiphysi</title>
-	<meta name="author" content="chiphysi" />
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
 
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 	
@@ -47,15 +32,16 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">Chiphysi <em>Programacion</em></a></div>
+					<div id="gtco-logo"><a href="index.html">DB <em>Airline</em></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
 						<li><a href="../../../\Don-Bosco-Airline\Don-Bosco-Airline-main\Catedra\src\tourly-master\index.html">Inicio</a></li>
 						<li><a href="reserva.php">Reserva</a></li>
 						<li><a href="precios.php">Precios</a></li>
+						<li><a href="destino.php">Destino</a></li>
 						<li><a href="contacto.php">Contactos</a></li>
-						<li><a href="desconectar.php"><font color="black">Salir</font></a></li>
+						<li><a href="desconectar.php">Salir</a></li>
 					</ul>	
 				</div>
 			</div>
@@ -63,7 +49,7 @@
 		</div>
 	</nav>
 	
-	<header id="gtco-header" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(imagenes/aviones.jpg)">
+	<header id="gtco-header" class="gtco-cover gtco-cover-md" role="banner" style="background-image: url(../Reserva/images/fofo.jpg)">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -99,8 +85,8 @@
 			<div class="row copyright">
 				<div class="col-md-12">
 					<p class="pull-left">
-						<small class="block">&copy; 2018</small> 
-						<small class="block">SISTEMA RESERVAS AVIÓN <a href="https://www.facebook.com/jhonatan.cardona.9237" target="_blank">Chiphysi Programacion</a></small>
+						<small class="block">&copy; 2023</small> 
+						<small class="block">SISTEMA RESERVAS AVIÓN <a>Air Don Bosco</a></small>
 					</p>
 					<p class="pull-right">
 						<ul class="gtco-social-icons pull-right">

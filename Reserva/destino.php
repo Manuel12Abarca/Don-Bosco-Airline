@@ -1,26 +1,9 @@
-<!--// Chiphysi programación suscribete -->
-<!--// V 0.1 original -->
-<!--// Autor: Chiphysi  --><!--// Autor: Jhonatan Cardona  -->
-<!--// Derechos de autor(Suscribete)  -->
-
 <!DOCTYPE HTML>
 <html>
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>chiphysi</title>
-	<meta name="author" content="chiphysi" />
-  	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
-
+	<title>Air Don Bosco</title>
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 	
 	<!-- Animate.css -->
@@ -66,13 +49,14 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">Chiphysi <em>Programacion</em></a></div>
+					<div id="gtco-logo"><a href="index.html">Air  <em>Don Bosco</em></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
 						<li><a href="inicio.php">Inicio</a></li>
 						<li><a href="reserva.php">Reserva</a></li>
 						<li><a href="precios.php">Precios</a></li>
+						<li><a href="destino.php">Destino</a></li>
 						<li><a href="contacto.php">Contactos</a></li>
 						<li><a href="desconectar.php"><font color="black">Salir</font></a></li>
 					</ul>	
@@ -434,7 +418,7 @@
 			<div class="row copyright">
 				<div class="col-md-12">
 					<p class="pull-left">
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
+						<small class="block">&copy; 2023</small> 
 						<small class="block">Designed by <a href="https://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.com/" target="_blank">Unsplash</a></small>
 					</p>
 					<p class="pull-right">

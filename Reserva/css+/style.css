@@ -218,15 +218,15 @@ span.label-mhover{
     background-color: #33414E;
     height: auto;
     color: #fff;
-    padding-top: 20px;
-    margin-top: 70px;
+    padding-top: 10px;
+    margin-top: 30px;
 }
 .footer-copyright{
-    height: 45px;
-    line-height: 45px;
+    height: 15px;
+    line-height: 15px;
     color: #fff;
     text-align: center;
-    font-size: 17px;
+    font-size: 7px;
     background-color: #2B3D51;
 }
 .footer-social{

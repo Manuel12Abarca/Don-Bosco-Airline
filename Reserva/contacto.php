@@ -1,14 +1,9 @@
-<!--// Chiphysi programación suscribete -->
-<!--// V 0.1 original -->
-<!--// Autor: Chiphysi  --><!--// Autor: Jhonatan Cardona  -->
-<!--// Derechos de autor(Suscribete)  -->
-
 <!DOCTYPE HTML>
 <html>
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>chiphysi</title>
+	<title>Air Don Bosco</title>
 	<meta name="author" content="chiphysi" />
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
@@ -49,7 +44,7 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html"><font color="black">Chiphysi <em>Programacion</em></font></a></div>
+					<div id="gtco-logo"><a href="index.html"><font color="black">Air<em>Don Bosco</em></font></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
@@ -109,10 +104,10 @@
 					<div class="gtco-contact-info">
 						<h3>Contacto Informacion</h3>
 						<ul>
-							<li class="address">Colombia, <br>Medellin</li>
-							<li class="phone"><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ">+57 018008956</a></li>
-							<li class="email"><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ">ingeniero292@gmail.com</a></li>
-							<li class="url"><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ">Chiphysi Programacion</a></li>
+							<li class="address">El Salvador, <br>San Salvador</li>
+							<li class="phone"><a>+503 6003-1851</a></li>
+							<li class="email"><a>dbairline2023@gmail.com
+</a></li>
 						</ul>
 					</div>
 

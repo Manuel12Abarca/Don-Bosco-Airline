@@ -1,7 +1,3 @@
-<!--// Chiphysi programación suscribete -->
-<!--// V 0.1 original -->
-<!--// Autor: Chiphysi  --><!--// Autor: Jhonatan Cardona  -->
-<!--// Derechos de autor(Suscribete)  -->
 
 <!DOCTYPE HTML>
 <html>
@@ -9,19 +5,6 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Precios</title>
-	<meta name="author" content="chiphysi" />
-
-
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
-
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 	<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="css/icomoon.css">
@@ -48,7 +31,7 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html"><font color="black">Chiphysi <em>Programacion</em></font></a></div>
+					<div id="gtco-logo"><a href="index.html"><font color="black">Air <em>Don Bosco</em></font></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
@@ -68,16 +51,16 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2>Chiphysi Programacion</h2>
+					<h2>Air Don Bosoc</h2>
 					<p>Elige el mejor plan para ti</p>
 				</div>
 			</div>
 			<div class="row">
-				<center><p>PAQUETE A COLOMBIA</p></center>
+				<center><p>PAQUETE DE VUELOS</p></center>
 				<div class="col-md-4">
 					<div class="price-box">
 						<h2 class="pricing-plan">BASICO</h2>
-						<div class="price"><sup class="currency">$</sup>250.000<small>/COP</small></div>
+						<div class="price"><sup class="currency">$</sup>250.00<small>/USD</small></div>
 						<p>Plan Basico En Avión Pequeño</p>
 						<hr>
 						<ul class="pricing-info">
@@ -89,7 +72,7 @@
 				<div class="col-md-4">
 					<div class="price-box">
 						<h2 class="pricing-plan">REGULAR</h2>
-						<div class="price"><sup class="currency">$</sup>500.000<small>/COP</small></div>
+						<div class="price"><sup class="currency">$</sup>500.00<small>/USD</small></div>
 						<p>Plan Regular En Avión Mediano </p>
 						<hr>
 						<ul class="pricing-info">
@@ -102,7 +85,7 @@
 					<div class="price-box popular">
 						<div class="popular-text">POPULAR</div>
 						<h2 class="pricing-plan">VIP</h2>
-						<div class="price"><sup class="currency">$</sup>1.000.000<small>/COP</small></div>
+						<div class="price"><sup class="currency">$</sup>1.000<small>/USD</small></div>
 						<p>Plan Vip En Avión Grande</p>
 						<hr>
 						<ul class="pricing-info">
@@ -121,7 +104,7 @@
 				<div class="col-md-4">
 					<div class="price-box">
 						<h2 class="pricing-plan">BASICO</h2>
-						<div class="price"><sup class="currency">$</sup>600<small>/US</small></div>
+						<div class="price"><sup class="currency">$</sup>600<small>/USD</small></div>
 						<p>Plan Basico En Avión Pequeño</p>
 						<hr>
 						<ul class="pricing-info">
@@ -133,7 +116,7 @@
 				<div class="col-md-4">
 					<div class="price-box">
 						<h2 class="pricing-plan">REGULAR</h2>
-						<div class="price"><sup class="currency">$</sup>1000<small>/US</small></div>
+						<div class="price"><sup class="currency">$</sup>1000<small>/USD</small></div>
 						<p>Plan Regular En Avión Mediano </p>
 						<hr>
 						<ul class="pricing-info">
@@ -146,7 +129,7 @@
 					<div class="price-box popular">
 						<div class="popular-text">POPULAR</div>
 						<h2 class="pricing-plan">VIP</h2>
-						<div class="price"><sup class="currency">$</sup>2500<small>/US</small></div>
+						<div class="price"><sup class="currency">$</sup>2500<small>/USD</small></div>
 						<p>Plan Vip En Avión Grande</p>
 						<hr>
 						<ul class="pricing-info">
@@ -167,15 +150,15 @@
 			<div class="row copyright">
 				<div class="col-md-12">
 					<p class="pull-left">
-						<small class="block">&copy; 2018</small> 
-						<small class="block">SISTEMA RESERVAS AVIÓN <a href="https://www.facebook.com/jhonatan.cardona.9237" target="_blank">Chiphysi Programacion</a></small>
+						<small class="block">&copy; 2023</small> 
+						<small class="block">SISTEMA RESERVAS AVIÓN <a>Air Don Bosco</a></small>
 					</p>
 					<p class="pull-right">
 						<ul class="gtco-social-icons pull-right">
-							<li><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ"><i class="icon-twitter"></i></a></li>
-							<li><a href="https://www.facebook.com/jhonatan.cardona.9237"><i class="icon-facebook"></i></a></li>
-							<li><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ"><i class="icon-linkedin"></i></a></li>
-							<li><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ"><i class="icon-dribbble"></i></a></li>
+							<li><a><i class="icon-twitter"></i></a></li>
+							<li><a><i class="icon-facebook"></i></a></li>
+							<li><a><i class="icon-linkedin"></i></a></li>
+							<li><a><i class="icon-dribbble"></i></a></li>
 						</ul>
 					</p>
 				</div>
