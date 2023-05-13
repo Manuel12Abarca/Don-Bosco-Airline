@@ -3,18 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Air Don Bosco</title>
-	<meta name="author" content="chiphysi" />
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
-
+	<title>Air Don Bosco</title>l
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 	
 	<link rel="stylesheet" href="css/animate.css">
@@ -124,7 +113,7 @@
 			<div class="row copyright">
 				<div class="col-md-12">
 					<p class="pull-left">
-						<small class="block">&copy; 2018</small> 
+						<small class="block">&copy; 2023</small> 
 						<small class="block">SISTEMA RESERVAS AVIÓN <a href="" target="_blank">Air Don Bosco</a></small>
 					</p>
 					<p class="pull-right">

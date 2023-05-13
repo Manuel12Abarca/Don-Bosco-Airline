@@ -36,7 +36,7 @@
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
-						<li><a href="../../../\Don-Bosco-Airline\Don-Bosco-Airline-main\Catedra\src\tourly-master\index.html">Inicio</a></li>
+						<li><a href="../../Don-Bosco-Airline/tourly-master/index.html">Inicio</a></li>
 						<li><a href="reserva.php">Reserva</a></li>
 						<li><a href="precios.php">Precios</a></li>
 						<li><a href="destino.php">Destino</a></li>
