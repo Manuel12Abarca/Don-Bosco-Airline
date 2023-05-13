@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Air Don Bosco</title>
+	<tittle>AIR DON BOSCO</tittle>
 
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 	
@@ -32,7 +32,7 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">DB <em>Airline</em></a></div>
+					<div id="gtco-logo"><a href="index.html">Air<em>Don Bosco</em></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
